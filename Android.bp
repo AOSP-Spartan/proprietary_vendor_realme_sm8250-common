@@ -21269,6 +21269,34 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    name: "libarc.ion",
+    owner: "realme",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libarc.ion.so",
+            ],
+            shared_libs: [
+                "libc++",
+                "libcutils",
+                "liblog",
+                "libutils",
+                "libdmabufheap",
+                "libm",
+                "libdl",
+                "libc",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
     name: "libarcsoft_aicolor_image",
     owner: "realme",
     strip: {
@@ -21381,6 +21409,10 @@ cc_prebuilt_library_shared {
                 "proprietary/odm/lib64/libarcsoft_dualcam_refocus_left.so",
             ],
             shared_libs: [
+                "libz",
+                "libarcsoft_qnnhtp",
+                "libcdsprpc",
+                "libarc.ion",
                 "libmpbase",
                 "liblog",
                 "libc",
@@ -21406,6 +21438,7 @@ cc_prebuilt_library_shared {
                 "proprietary/odm/lib64/libarcsoft_dualcam_refocus_preview.so",
             ],
             shared_libs: [
+                "libarc.ion",
                 "libmpbase",
                 "liblog",
                 "libc",
@@ -21431,6 +21464,10 @@ cc_prebuilt_library_shared {
                 "proprietary/odm/lib64/libarcsoft_dualcam_refocus_uw.so",
             ],
             shared_libs: [
+                "libz",
+                "libarcsoft_qnnhtp",
+                "libcdsprpc",
+                "libarc.ion",
                 "libmpbase",
                 "liblog",
                 "libc",
@@ -21869,6 +21906,31 @@ cc_prebuilt_library_shared {
                 "libOpenCL",
                 "liblog",
                 "libdl",
+                "libc",
+                "libm",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libarcsoft_qnnhtp",
+    owner: "realme",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/libarcsoft_qnnhtp.so",
+            ],
+            shared_libs: [
+                "liblog",
+                "libdl",
+                "libcdsprpc",
                 "libc",
                 "libm",
             ],
