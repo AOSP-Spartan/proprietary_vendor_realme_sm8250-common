@@ -16327,7 +16327,7 @@ cc_prebuilt_library_shared {
 }
 
 prebuilt_rfsa {
-    name: "capi_v2_aptX_CLHDADV_Encoder",
+    name: "vendor_lib_rfsa_adsp_capi_v2_aptX_CLHDADV_Encoder_so",
     filename: "capi_v2_aptX_CLHDADV_Encoder.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDADV_Encoder.so",
@@ -16336,7 +16336,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "capi_v2_aptX_CLHDAD_Speech_Decoder",
+    name: "vendor_lib_rfsa_adsp_capi_v2_aptX_CLHDAD_Speech_Decoder_so",
     filename: "capi_v2_aptX_CLHDAD_Speech_Decoder.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDAD_Speech_Decoder.so",
@@ -16345,7 +16345,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libQ6MSFR_manager_skel",
+    name: "vendor_lib_rfsa_adsp_libQ6MSFR_manager_skel_so",
     filename: "libQ6MSFR_manager_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libQ6MSFR_manager_skel.so",
@@ -16354,7 +16354,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libapps_mem_heap",
+    name: "vendor_lib_rfsa_adsp_libapps_mem_heap_so",
     filename: "libapps_mem_heap.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libapps_mem_heap.so",
@@ -16363,7 +16363,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libbitml_nsp_skel",
+    name: "vendor_lib_rfsa_adsp_libbitml_nsp_skel_so",
     filename: "libbitml_nsp_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libbitml_nsp_skel.so",
@@ -16372,7 +16372,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libcamera_nn_skel",
+    name: "vendor_lib_rfsa_adsp_libcamera_nn_skel_so",
     filename: "libcamera_nn_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libcamera_nn_skel.so",
@@ -16381,7 +16381,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libcvpdsp_skel",
+    name: "vendor_lib_rfsa_adsp_libcvpdsp_skel_so",
     filename: "libcvpdsp_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libcvpdsp_skel.so",
@@ -16390,7 +16390,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libdspCV_skel",
+    name: "vendor_lib_rfsa_adsp_libdspCV_skel_so",
     filename: "libdspCV_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libdspCV_skel.so",
@@ -16399,7 +16399,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libdsp_streamer_binning",
+    name: "vendor_lib_rfsa_adsp_libdsp_streamer_binning_so",
     filename: "libdsp_streamer_binning.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libdsp_streamer_binning.so",
@@ -16408,7 +16408,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libfastcvadsp",
+    name: "vendor_lib_rfsa_adsp_libfastcvadsp_so",
     filename: "libfastcvadsp.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libfastcvadsp.so",
@@ -16417,7 +16417,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libfastcvdsp_skel",
+    name: "vendor_lib_rfsa_adsp_libfastcvdsp_skel_so",
     filename: "libfastcvdsp_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libfastcvdsp_skel.so",
@@ -16426,7 +16426,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libhexagon_nn_skel",
+    name: "vendor_lib_rfsa_adsp_libhexagon_nn_skel_so",
     filename: "libhexagon_nn_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libhexagon_nn_skel.so",
@@ -16435,7 +16435,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libosie_skel",
+    name: "vendor_lib_rfsa_adsp_libosie_skel_so",
     filename: "libosie_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libosie_skel.so",
@@ -16444,7 +16444,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libproxy_skel",
+    name: "vendor_lib_rfsa_adsp_libproxy_skel_so",
     filename: "libproxy_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libproxy_skel.so",
@@ -16453,7 +16453,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libscveObjectSegmentation_skel",
+    name: "vendor_lib_rfsa_adsp_libscveObjectSegmentation_skel_so",
     filename: "libscveObjectSegmentation_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libscveObjectSegmentation_skel.so",
@@ -16462,7 +16462,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libscveT2T_skel",
+    name: "vendor_lib_rfsa_adsp_libscveT2T_skel_so",
     filename: "libscveT2T_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libscveT2T_skel.so",
@@ -16471,7 +16471,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libsns_device_mode_skel",
+    name: "vendor_lib_rfsa_adsp_libsns_device_mode_skel_so",
     filename: "libsns_device_mode_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libsns_device_mode_skel.so",
@@ -16480,7 +16480,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libsns_low_lat_stream_skel",
+    name: "vendor_lib_rfsa_adsp_libsns_low_lat_stream_skel_so",
     filename: "libsns_low_lat_stream_skel.so",
     owner: "realme",
     src: "proprietary/vendor/lib/rfsa/adsp/libsns_low_lat_stream_skel.so",
@@ -23774,7 +23774,7 @@ cc_prebuilt_library_shared {
 }
 
 prebuilt_rfsa {
-    name: "libaiboostsr_skel_v66.aiboost",
+    name: "odm_lib_rfsa_adsp_aiboost_libaiboostsr_skel_v66_so",
     filename: "libaiboostsr_skel_v66.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/aiboost/libaiboostsr_skel_v66.so",
@@ -23783,7 +23783,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libaiboostubwc_skel.aiboost",
+    name: "odm_lib_rfsa_adsp_aiboost_libaiboostubwc_skel_so",
     filename: "libaiboostubwc_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/aiboost/libaiboostubwc_skel.so",
@@ -23792,7 +23792,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libhta_dsp_skel_odm",
+    name: "odm_lib_rfsa_adsp_hta_lib_libhta_dsp_skel_so",
     filename: "libhta_dsp_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/hta_lib/libhta_dsp_skel.so",
@@ -23801,7 +23801,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libQnnHtp",
+    name: "odm_lib_rfsa_adsp_libQnnHtp_so",
     filename: "libQnnHtp.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libQnnHtp.so",
@@ -23810,7 +23810,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libQnnHtpAltPrepSkel",
+    name: "odm_lib_rfsa_adsp_libQnnHtpAltPrepSkel_so",
     filename: "libQnnHtpAltPrepSkel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libQnnHtpAltPrepSkel.so",
@@ -23819,7 +23819,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libQnnHtpSkel",
+    name: "odm_lib_rfsa_adsp_libQnnHtpSkel_so",
     filename: "libQnnHtpSkel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libQnnHtpSkel.so",
@@ -23828,7 +23828,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libVDHexagonBlurless_v2_skel",
+    name: "odm_lib_rfsa_adsp_libVDHexagonBlurless_v2_skel_so",
     filename: "libVDHexagonBlurless_v2_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libVDHexagonBlurless_v2_skel.so",
@@ -23837,7 +23837,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libarc_hta_driver_skel",
+    name: "odm_lib_rfsa_adsp_libarc_hta_driver_skel_so",
     filename: "libarc_hta_driver_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libarc_hta_driver_skel.so",
@@ -23846,7 +23846,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libarcsoft_dualcam_refocus_5221_skel",
+    name: "odm_lib_rfsa_adsp_libarcsoft_dualcam_refocus_5221_skel_so",
     filename: "libarcsoft_dualcam_refocus_5221_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libarcsoft_dualcam_refocus_5221_skel.so",
@@ -23855,7 +23855,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libarcsoft_dualcam_refocus_skel",
+    name: "odm_lib_rfsa_adsp_libarcsoft_dualcam_refocus_skel_so",
     filename: "libarcsoft_dualcam_refocus_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libarcsoft_dualcam_refocus_skel.so",
@@ -23864,7 +23864,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libarcsoft_hdrplus_hvx_skel",
+    name: "odm_lib_rfsa_adsp_libarcsoft_hdrplus_hvx_skel_so",
     filename: "libarcsoft_hdrplus_hvx_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel.so",
@@ -23873,7 +23873,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libarcsoft_portraitSN_hvx_skel",
+    name: "odm_lib_rfsa_adsp_libarcsoft_portraitSN_hvx_skel_so",
     filename: "libarcsoft_portraitSN_hvx_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libarcsoft_portraitSN_hvx_skel.so",
@@ -23882,7 +23882,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libc++.so",
+    name: "odm_lib_rfsa_adsp_libc++_so_1",
     filename: "libc++.so.1",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libc++.so.1",
@@ -23891,7 +23891,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libc++abi.so",
+    name: "odm_lib_rfsa_adsp_libc++abi_so_1",
     filename: "libc++abi.so.1",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libc++abi.so.1",
@@ -23900,7 +23900,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libcalculator_domains_skel",
+    name: "odm_lib_rfsa_adsp_libcalculator_domains_skel_so",
     filename: "libcalculator_domains_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libcalculator_domains_skel.so",
@@ -23909,7 +23909,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libcalculator_skel",
+    name: "odm_lib_rfsa_adsp_libcalculator_skel_so",
     filename: "libcalculator_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libcalculator_skel.so",
@@ -23918,7 +23918,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libhdr_skel",
+    name: "odm_lib_rfsa_adsp_libhdr_skel_so",
     filename: "libhdr_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libhdr_skel.so",
@@ -23927,7 +23927,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libhdrv3_skel",
+    name: "odm_lib_rfsa_adsp_libhdrv3_skel_so",
     filename: "libhdrv3_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libhdrv3_skel.so",
@@ -23936,7 +23936,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libhta_dsp_skel",
+    name: "odm_lib_rfsa_adsp_libhta_dsp_skel_so",
     filename: "libhta_dsp_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libhta_dsp_skel.so",
@@ -23945,7 +23945,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libhvxFaceBeautyPre_skel",
+    name: "odm_lib_rfsa_adsp_libhvxFaceBeautyPre_skel_so",
     filename: "libhvxFaceBeautyPre_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libhvxFaceBeautyPre_skel.so",
@@ -23954,7 +23954,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libinterstellar_skel",
+    name: "odm_lib_rfsa_adsp_libinterstellar_skel_so",
     filename: "libinterstellar_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libinterstellar_skel.so",
@@ -23963,7 +23963,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libktvdrc",
+    name: "odm_lib_rfsa_adsp_libktvdrc_so",
     filename: "libktvdrc.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libktvdrc.so",
@@ -23972,7 +23972,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libktveffect",
+    name: "odm_lib_rfsa_adsp_libktveffect_so",
     filename: "libktveffect.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libktveffect.so",
@@ -23981,7 +23981,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libktveq",
+    name: "odm_lib_rfsa_adsp_libktveq_so",
     filename: "libktveq.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libktveq.so",
@@ -23990,7 +23990,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libktvns",
+    name: "odm_lib_rfsa_adsp_libktvns_so",
     filename: "libktvns.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libktvns.so",
@@ -23999,7 +23999,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libktvpitchshift",
+    name: "odm_lib_rfsa_adsp_libktvpitchshift_so",
     filename: "libktvpitchshift.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libktvpitchshift.so",
@@ -24008,7 +24008,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libktvreverb",
+    name: "odm_lib_rfsa_adsp_libktvreverb_so",
     filename: "libktvreverb.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libktvreverb.so",
@@ -24017,7 +24017,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libktvvolume",
+    name: "odm_lib_rfsa_adsp_libktvvolume_so",
     filename: "libktvvolume.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libktvvolume.so",
@@ -24026,7 +24026,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libshdr_skel",
+    name: "odm_lib_rfsa_adsp_libshdr_skel_so",
     filename: "libshdr_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libshdr_skel.so",
@@ -24035,7 +24035,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libsnpe_dsp_domains_skel",
+    name: "odm_lib_rfsa_adsp_libsnpe_dsp_domains_skel_so",
     filename: "libsnpe_dsp_domains_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libsnpe_dsp_domains_skel.so",
@@ -24044,7 +24044,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libsnpe_dsp_skel",
+    name: "odm_lib_rfsa_adsp_libsnpe_dsp_skel_so",
     filename: "libsnpe_dsp_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libsnpe_dsp_skel.so",
@@ -24053,7 +24053,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libsnpe_dsp_v65_domains_v2_skel",
+    name: "odm_lib_rfsa_adsp_libsnpe_dsp_v65_domains_v2_skel_so",
     filename: "libsnpe_dsp_v65_domains_v2_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libsnpe_dsp_v65_domains_v2_skel.so",
@@ -24062,7 +24062,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libsnpe_dsp_v66_domains_v2_skel",
+    name: "odm_lib_rfsa_adsp_libsnpe_dsp_v66_domains_v2_skel_so",
     filename: "libsnpe_dsp_v66_domains_v2_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libsnpe_dsp_v66_domains_v2_skel.so",
@@ -24071,7 +24071,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libsnpe_dsp_v68_domains_v3_skel",
+    name: "odm_lib_rfsa_adsp_libsnpe_dsp_v68_domains_v3_skel_so",
     filename: "libsnpe_dsp_v68_domains_v3_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libsnpe_dsp_v68_domains_v3_skel.so",
@@ -24080,7 +24080,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libsnpe_htp_v65_skel",
+    name: "odm_lib_rfsa_adsp_libsnpe_htp_v65_skel_so",
     filename: "libsnpe_htp_v65_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libsnpe_htp_v65_skel.so",
@@ -24089,7 +24089,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libsnpe_htp_v66_skel",
+    name: "odm_lib_rfsa_adsp_libsnpe_htp_v66_skel_so",
     filename: "libsnpe_htp_v66_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libsnpe_htp_v66_skel.so",
@@ -24098,7 +24098,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libsnpe_htp_v68_skel",
+    name: "odm_lib_rfsa_adsp_libsnpe_htp_v68_skel_so",
     filename: "libsnpe_htp_v68_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libsnpe_htp_v68_skel.so",
@@ -24107,7 +24107,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libvdblurless_4.6.10_skel",
+    name: "odm_lib_rfsa_adsp_libvdblurless_4_6_10_skel_so",
     filename: "libvdblurless_4.6.10_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libvdblurless_4.6.10_skel.so",
@@ -24116,7 +24116,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libvdblurless_skel",
+    name: "odm_lib_rfsa_adsp_libvdblurless_skel_so",
     filename: "libvdblurless_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libvdblurless_skel.so",
@@ -24125,7 +24125,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libvdsuperphoto_skel",
+    name: "odm_lib_rfsa_adsp_libvdsuperphoto_skel_so",
     filename: "libvdsuperphoto_skel.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libvdsuperphoto_skel.so",
@@ -24134,7 +24134,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libworker_pool",
+    name: "odm_lib_rfsa_adsp_libworker_pool_so",
     filename: "libworker_pool.so",
     owner: "realme",
     src: "proprietary/odm/lib/rfsa/adsp/libworker_pool.so",
